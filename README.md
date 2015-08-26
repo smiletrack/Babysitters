@@ -1,2 +1,1 @@
 # babysitters.github.io
-yay
